@@ -1,19 +1,13 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?dez03=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+I'm Aviel, a web developer, open source devotee, and am egar to learn more about all aspects of tech. <!-- Check out my portfolio website here -->
+
+
+[![Anurag's GitHub stats](https:https://github-readme-stats-tman57.vercel.app/api?username=dez03)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-<!--
-**dez03/dez03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Zombie Apocalypse Club website
+- 🌱 I’m currently learning JavaScript
+- 👯 I’m looking to collaborate on SchoolSimplified and Spotify Reviews
+- 📫 How to reach me: hernandezaviel@gmail.com (email) d3z#9559 (discord) 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
