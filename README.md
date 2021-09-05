@@ -1,4 +1,4 @@
-## Hey! <img src="https://c.tenor.com/yWSRmymbuBkAAAAC/waving-hi.gif" width="40px">
+## Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 
 I'm Aviel, a web developer and open source devotee who is eagar to learn more about all aspects of tech. <!-- Check out my portfolio website here -->
 
