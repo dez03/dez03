@@ -23,7 +23,14 @@ I'm Aviel, a web developer and open source devotee who is eagar to learn more ab
  
  
 ### Recent Activity
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
 <!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+</details>
 
 
 
