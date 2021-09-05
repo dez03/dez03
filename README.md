@@ -21,14 +21,10 @@ I'm Aviel, a web developer and open source devotee who is eagar to learn more ab
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dez03&langs_count=8&layout=compact)
 </details>
  
- 
-### Recent Activity
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
 
 </details>
 
