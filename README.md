@@ -2,7 +2,7 @@
 I'm Aviel, a web developer, open source devotee, and am egar to learn more about all aspects of tech. <!-- Check out my portfolio website here -->
 
 
-[![Anurag's GitHub stats](https:https://github-readme-stats-tman57.vercel.app/api?username=dez03)]
+[![Anurag's GitHub stats](https:https://github-readme-stats-dez03.vercel.app/api?username=dez03)]
 
 
 
