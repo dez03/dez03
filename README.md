@@ -1,8 +1,12 @@
 <h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
 <h3 align="center">I'm Aviel, a web developer and open source devotee who is eagar to learn more about all aspects of tech. Check out my <a href="https://avhdz.tech/" target="blank">personal portfolio website here</a> </h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dez03&label=Profile%20views&color=0e75b6&style=flat" alt="dez03" /> </p>
+
+
 <hr>
+
 
 <h3>Basic GitHub Grades</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dez03" alt="dez03"/></a></p>
