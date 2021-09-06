@@ -1,9 +1,11 @@
 <h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
-<h3 align="center">I'm Aviel, a web developer and open source devotee who is eagar to learn more about all aspects of tech</h3>
+<h3 align="center">I'm Aviel, a web developer and open source devotee who is eagar to learn more about all aspects of tech. Check out my <a href="https://avhdz.tech/" target="blank">personal portfolio website here</a> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dez03&label=Profile%20views&color=0e75b6&style=flat" alt="dez03" /> </p>
+<hr>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dez03" alt="dez03" /></a> </p>
+<h3>Basic GitHub Grades</h3>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dez03" alt="dez03"/></a></p>
 
 - 🔭 I’m currently working on **Zombie Apocalypse Club website**
 
@@ -15,6 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://avhdz.tech/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dez03" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14965740/dez03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dez03" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dez03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dez03" height="30" width="40" /></a>
 <a href="https://discord.gg/users/464558607225192461" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dez03#9559" height="30" width="40" /></a>
@@ -25,6 +28,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dez03&show_icons=true&locale=en&layout=compact" alt="dez03" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dez03&show_icons=true&locale=en" alt="dez03" /></p>
+  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dez03&" alt="dez03" /></p>
+ <details>
+  <summary>:zap: GitHub Statistics</summary>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dez03&show_icons=true&locale=en" alt="dez03" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dez03&" alt="dez03" /></p>
+</details> 
