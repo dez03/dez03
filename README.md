@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://avhdz.tech/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dez03" height="30" width="40" /></a>
+<a href="https://avhdz.tech/" target="blank"><img align="center" src="https://lh3.googleusercontent.com/4xPmh7GnvF5e8tfCAfvJMMxgY3UMQ2cRz7eCw2nw-Xqojz7PM9MsfWC1maF9UnJyOms-bg=s85" alt="dez03" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/14965740/dez03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dez03" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dez03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dez03" height="30" width="40" /></a>
 <a href="https://discord.gg/users/464558607225192461" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dez03#9559" height="30" width="40" /></a>
