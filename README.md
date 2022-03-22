@@ -11,9 +11,9 @@
 
 
 ### 👨General Information About Me
-- 🔭 I’m currently working on **Zombie Apocalypse Club website**
+- 🔭 I’m currently working on **UHS Key Club website**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **New Open Source Projects**
 
